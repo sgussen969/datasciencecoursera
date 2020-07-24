@@ -1,3 +1,7 @@
+# Course: Introduction to Python
+# Instructor: David Dalsveen
+# Coursera; July 22, 2020
+
 import random 
 
 def computerGuess(lowval, highval, randnum, count=0):
